@@ -307,7 +307,7 @@ margin:0;
 padding:0;
 width:90vw;
 height:22.5vh;
-float:right;
+float:center;
 }
 
 .footerP{
@@ -319,7 +319,7 @@ line-height:22.5vh;
 }
 
 .socialMedias{
-float:right;
+float:left;
 }
 
 .Linkedin{
