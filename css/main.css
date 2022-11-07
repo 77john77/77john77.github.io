@@ -16,7 +16,12 @@ html {
   font-size: 1em;
   line-height: 1.4;
 }
-
+table {
+  border-collapse: collapse;
+}
+td, th {
+  border: 1px solid blue;
+}
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
